@@ -1,0 +1,36 @@
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Backup files
+*.bak
+*.backup
+
+# Runtime files
+*.pid
+*.sock
+
+# Cache directories
+cache/
+.cache/
